@@ -26,3 +26,20 @@ Header has logo and name of the company along with the navigation bar to differe
     </nav>
   </header>
 ```
+
+### Footer
+Footer has social media links and some other informations such as contacts and addresses. Here is the code we have for the footer:
+
+```html
+  <footer>
+    <div class="social-media">
+      <a href="" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+      <a href="" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+    </div>
+    <div class="info">
+      <p>Contact: 040000000</p>
+      <p>Address: 1 street, suburb</p>
+    </div>
+  </footer>
+```
